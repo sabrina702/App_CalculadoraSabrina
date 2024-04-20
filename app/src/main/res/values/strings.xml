@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora SI</string>
+    <string name="text_view_result_height">60dp</string>
+    <string name="menssagem_de_erro">Expressão Inválida</string>
+</resources>
